@@ -12,7 +12,7 @@ In decreasing order,
 * apt-get & dpkg
 * steamcmd
 * git clone; ./configure; make; make install
-* curl | bash 
+* curl  bash 
 
 ## To use
 To use, add execute privilage to this script, then run `./install.sh [package name]`
