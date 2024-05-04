@@ -4,12 +4,12 @@ Inspired by [XKCD](https://xkcd.com/1654/), this Bash script installs anything b
 
 ## Runs
 In decreasing order,
-* pip !
-* npm !
-* yum & dnf !
-* docker !
-* pkg !
-* apt-get & dpkg !
+* pip
+* npm
+* yum & dnf
+* docker
+* pkg
+* apt-get & dpkg
 * steamcmd
 * git clone; ./configure; make; make install
 * curl | bash 
