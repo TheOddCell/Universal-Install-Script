@@ -15,4 +15,4 @@ In decreasing order,
 * curl  bash 
 
 ## To use
-To use, add execute privilage to this script, then run `./install.sh [package name]` or type in this command: `curl https://install.oddcell.ca/curl.sh | bash`
+To use, add execute privilage to this script, then run `./install.sh [package name]` 
